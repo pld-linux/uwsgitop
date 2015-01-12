@@ -1,11 +1,11 @@
 Summary:	uWSGI top-like application
 Name:		uwsgitop
-Version:	0.6.2
+Version:	0.8
 Release:	1
 License:	MIT
 Group:		Networking/Admin
 Source0:	https://pypi.python.org/packages/source/u/uwsgitop/%{name}-%{version}.tar.gz
-# Source0-md5:	eabb727d79d6d3d2c838430987f5f327
+# Source0-md5:	a43089c26efa6fe8d8f750d16680449d
 URL:		https://github.com/unbit/uwsgitop
 BuildRequires:	sed >= 4.0
 Requires:	python-modules
